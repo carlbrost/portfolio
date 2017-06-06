@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Carl Brost",
+    "label": "Programmer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "email": "carlbrost@",
+    "phone": "952-797-4578",
+    "website": "https://carlbrost.github.io",
+    "summary": "Fresh from the Associate's Degree, ready to do some IT",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "952-797-4578",
+      "city": "Minneapolis",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Minnesota"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "carlbrost",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Carl Brost",
+        "url": "https://www.linkedin.com/in/carl-brost-0371b8a8//"
       },
       {
         "network": "twitter",
