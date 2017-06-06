@@ -32,14 +32,14 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
+        "username": "donthave",
         "url": "http://instagram.com/donthaveagram"
       }
     ]
   },
   "interests": [
     {
-      "name": "Development",
+      "name": "Front End Development",
       "keywords": [
         "Games",
         "Websites",
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
