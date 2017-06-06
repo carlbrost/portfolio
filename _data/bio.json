@@ -2,7 +2,7 @@
   "basics": {
     "name": "Carl Brost",
     "label": "Programmer",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "portfolio/images/carlpic.png",
     "email": "carlbrost@",
     "phone": "952-797-4578",
     "website": "https://carlbrost.github.io",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "carlbrost",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/carlbrost"
       },
       {
         "network": "linkedin",
@@ -27,27 +27,32 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "don'thaveone",
+        "url": "http://twitter.com/donthaveone"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/donthaveagram"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Games",
+        "Websites",
+        "Apps"
+
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "Game Data",
       "keywords": [
+        "Character Databases,", 
+        "RPG Progression Tracking",
       ]
     },
     {
@@ -61,35 +66,32 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "C#",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Entity",
+        ".NET"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        ".NET Development",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
+      "institution": "Hennepin Technical College",
+      "area": ".NET programming",
+      "studyType": "A.A.S",
       "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "endDate": "May 2017",
+      "gpa": "3.43",
+      "courses": [ "Javascript", ".NET I & II", "Intro To ASP.net","HTM & CSS", "Database Design", "Transact-SQL", "System Analysis",
       ]
     }
   ],
@@ -106,18 +108,7 @@
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
+    
   ],
   "volunteer": [
     {
