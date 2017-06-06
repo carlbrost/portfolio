@@ -110,7 +110,17 @@
     },
     
   ],
-  "volunteer": [
+  "volunteer": [      "organization": "A Midwest D&D Group",
+      "website": "a google drive somewhere",
+      "position": "GM",
+      "startDate": "May of 20015",
+      "endDate": "Present",
+      "summary": "Running Campaigns for my friends",
+      "highlights": [
+        "Managing to wild-ly freewrite when my players go off the story",
+        "Keeping track of all the character stats"
+  ],
+  
   ],
   "awards": [
     {
